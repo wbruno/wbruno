@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋, I'm William Bruno
+## A NodeJS Developer, but most of all 
 
-<!--
-**wbruno/wbruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Grupo Boticario**
+- 🌱 I’m currently learning DynamoDB and Quantum Ledger
+- 👯 I’m looking to collaborate on NodeJS projects
+- 💬 Ask me about anything regarding web development
+- ⚡ Fun fact: I wrote a NodeJS book https://novatec.com.br/livros/nodejs-2ed/
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: wbrunom@gmail.com
+  - [blog](https://wbruno.com.br/)
+  - [twitter](https://twitter.com/wbrunom "@wbrunom")
+  - [linkedin](https://www.linkedin.com/in/wbrunom/ "@wbrunom")
