@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning DynamoDB and Quantum Ledger
 - 👯 I’m looking to collaborate on NodeJS projects
 - 💬 Ask me about anything regarding web development
-- ⚡ Fun fact: I wrote a NodeJS book https://novatec.com.br/livros/nodejs-2ed/
+- ⚡ Fun fact: I wrote a NodeJS book https://novatec.com.br/livros/nodejs-3ed/
 
 - 📫 How to reach me: wbrunom@gmail.com
   - [blog](https://wbruno.com.br/)
